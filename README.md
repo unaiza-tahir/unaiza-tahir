@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Unaiza Tahir</h1>
+<h1 align="center">Hi , I'm Unaiza Tahir</h1>
 <h3 align="center">Full Stack Developer (MERN) | Agentic AI Builder | n8n Automation</h3>
 
 <p align="center">
@@ -56,10 +56,10 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=unaiza-tahir&show_icons=true&theme=default&hide_border=true" alt="Unaiza's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=unaiza-tahir&show_icons=true&theme=default&hide_border=true&count_private=true" alt="Unaiza's GitHub stats" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=unaiza-tahir&hide_border=true" alt="Unaiza's GitHub streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=unaiza-tahir&layout=compact&theme=default&hide_border=true" alt="Top languages" />
 </p>
 
 ---
