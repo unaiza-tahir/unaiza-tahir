@@ -67,11 +67,11 @@ I design and build products end-to-end — from full stack web apps to AI agents
 <tr>
 <td width="50%" valign="top">
 
-**[📄 DocSync](https://github.com/unaiza-tahir/docsync-submission)**
+**[📄 AI Resume Screener](https://github.com/unaiza-tahir/resume-screener)**
 <br/>
-A collaborative document editor — rich text editing, file import, and owner-based sharing with real backend-enforced access control.
+A generative AI resume screener & mock interview platform — analyzes resumes against job descriptions and generates AI-driven interview questions.
 <br/>
-`React` `Node.js` `Express`
+`React` `Node.js` `FastAPI` `MongoDB` `Groq`
 
 </td>
 <td width="50%" valign="top">
@@ -87,18 +87,54 @@ An AI mental health agent on WhatsApp with crisis escalation and location-based 
 <tr>
 <td width="50%" valign="top">
 
+**[🏥 CareLink Hospital Management System](https://github.com/unaiza-tahir/carelink-hospital-management-system)**
+<br/>
+A full stack hospital management system.
+<br/>
+`MERN Stack`
+
+</td>
+<td width="50%" valign="top">
+
 **[🏛️ Sindh Smart Citizen Portal](https://github.com/Amna-Sarfaraz/Sindh-Smart-Citizen-Portal-)** *(collaborator)*
 <br/>
-A unified platform for public services in Sindh.
+A unified, intelligent, and transparent platform for public services in Sindh.
+<br/>
+`JavaScript`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**[🛡️ Mehfooz](https://github.com/unaiza-tahir/Mehfooz)** *(collaborator)*
+<br/>
+A safety-focused platform built in collaboration with the team.
+<br/>
+`JavaScript`
 
 </td>
 <td width="50%" valign="top">
 
 **[⌚ Tempus Watch Store](https://github.com/unaiza-tahir/-tempus-watch-store)**
 <br/>
-A front-end e-commerce concept for browsing watches.
+A front-end e-commerce website for browsing and showcasing watches.
 <br/>
 `HTML` `CSS` `JavaScript`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**[🌾 Farm2Market](https://github.com/unaiza-tahir/Farm2Market)** *(collaborator)*
+<br/>
+A smart agro trade platform connecting farmers and buyers, using intelligent crop sorting, searching, and matching.
+<br/>
+`Django` `C++`
+
+</td>
+<td width="50%" valign="top">
 
 </td>
 </tr>
