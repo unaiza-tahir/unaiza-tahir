@@ -1,122 +1,87 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:24243E&height=220&section=header&text=Unaiza%20Tahir&fontSize=55&fontColor=FFFFFF&fontAlignY=38&desc=Full-Stack%20AI%20Developer%20%7C%20Agentic%20AI%20%7C%20LLMs%20%7C%20GenAI&descAlignY=60&descSize=18&animation=fadeIn" width="100%"/>
-
-</div>
-
-<div align="center">
-
-### Full-Stack AI Developer
-
-Software Engineering Student at NED University of Engineering and Technology
-
-Building intelligent AI systems and modern full-stack applications.
-
-<br>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A2647,50:144272,100:205295&height=230&section=header&text=Unaiza%20Tahir&fontSize=52&fontColor=FFFFFF&fontAlignY=35&desc=Full-Stack%20AI%20Developer%20%7C%20Agentic%20AI%20%7C%20LLMs%20%7C%20GenAI&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
 <a href="https://linkedin.com/in/unaiza-tahir-4473b436">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-Connect-205295?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="mailto:unaizatahir24@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-7C3AED?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-Contact-144272?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 <a href="https://github.com/unaiza-tahir">
-<img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-Profile-0A2647?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=unaiza-tahir&label=Profile%20Views&color=8B5CF6&style=flat-square"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=2C74B3&center=true&vCenter=true&width=650&lines=Building+Agentic+AI+systems+that+actually+ship;LangGraph+%2B+FastAPI+%2B+LLMs+%3D+%E2%9D%A4%EF%B8%8F;Full-Stack+Developer+%7C+MERN+%2B+GenAI;Turning+ideas+into+production-ready+products" alt="Typing SVG"/>
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=unaiza-tahir&label=Profile%20Views&color=2C74B3&style=flat-square"/>
 
 </div>
 
 ---
 
-# About Me
+## About Me
 
-I'm a Software Engineering student at NED University of Engineering and Technology with a strong interest in Full-Stack Development, Generative AI, LLM-powered applications, and Agentic AI systems.
+I'm a Software Engineering student at **NED University of Engineering and Technology**, focused on Full-Stack Development, Generative AI, LLM-powered applications, and Agentic AI systems.
 
-I enjoy building practical software that combines intelligent AI capabilities with modern web technologies, from AI agents and automation workflows to complete full-stack applications.
+I like building software that actually solves a problem — AI agents that automate real workflows, and full-stack products that are clean, scalable, and production-ready.
 
-My current focus is on developing reliable AI-powered products and scalable web applications while continuously improving my understanding of software architecture, backend systems, and emerging AI technologies.
+**Currently:** developing reliable AI-powered products while deepening my understanding of software architecture and backend systems.
 
 ---
 
-# Areas of Focus
+## Areas of Focus
 
-<div align="center">
-
-<table>
+<table align="center">
 <tr>
-<td align="center" width="250">
+<td align="center" width="270">
 
-### Artificial Intelligence
+**Artificial Intelligence**
 
-LLM Applications
-
-Agentic AI
-
-Generative AI
-
-LangChain
-
-LangGraph
+LLM Applications · Agentic AI
+Generative AI · LangChain · LangGraph
 
 </td>
+<td align="center" width="270">
 
-<td align="center" width="250">
+**Full-Stack Development**
 
-### Full-Stack Development
-
-React.js
-
-Node.js
-
-Express.js
-
-FastAPI
-
-MERN Stack
+React.js · Node.js
+Express.js · FastAPI · MERN
 
 </td>
+<td align="center" width="270">
 
-<td align="center" width="250">
+**Automation**
 
-### Automation
-
-n8n Workflows
-
-AI Automation
-
-API Integrations
-
-Twilio
-
-Workflow Systems
+n8n Workflows · API Integrations
+Twilio · AI-driven Automation
 
 </td>
 </tr>
 </table>
 
-</div>
-
 ---
 
-# Tech Stack
+## Tech Stack
 
-### AI and Generative AI
+**AI / Generative AI**
 
 <p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
-<img src="https://img.shields.io/badge/LangGraph-302B63?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/LLMs-8B5CF6?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Agentic_AI-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Python-0A2647?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/LangChain-144272?style=for-the-badge&logo=langchain&logoColor=white"/>
+<img src="https://img.shields.io/badge/LangGraph-205295?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LLMs-2C74B3?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Agentic_AI-0A2647?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"/>
 <img src="https://img.shields.io/badge/Groq-111827?style=for-the-badge"/>
 </p>
 
-### Frontend
+**Frontend**
 
 <p>
 <img src="https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
@@ -125,7 +90,7 @@ Workflow Systems
 <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
 </p>
 
-### Backend
+**Backend**
 
 <p>
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
@@ -134,7 +99,7 @@ Workflow Systems
 <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
 </p>
 
-### Databases
+**Databases**
 
 <p>
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
@@ -143,7 +108,7 @@ Workflow Systems
 <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
 </p>
 
-### Tools and Platforms
+**Tools & Platforms**
 
 <p>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
@@ -157,202 +122,128 @@ Workflow Systems
 
 ---
 
-# Featured Projects
+## Featured Projects
 
-## MindEase — AI Mental Health Support Agent
+### MindEase — AI Mental Health Support Agent
+**Agentic AI · LangGraph · FastAPI · Groq LLM · Twilio**
 
-**Agentic AI | LangGraph | FastAPI | Groq LLM | Twilio**
-
-An AI-powered mental health support system designed around WhatsApp, using a multi-tool agent architecture to intelligently handle conversational support, emergency escalation, and therapist discovery.
-
-### Key Features
+An AI-powered mental health support system built around WhatsApp, using a multi-tool agent architecture for conversational support, emergency escalation, and therapist discovery.
 
 - Multi-tool Agentic AI architecture using LangGraph
 - WhatsApp-based conversational interface
-- Emergency escalation using Twilio Voice API
+- Emergency escalation via Twilio Voice API
 - Geolocation-based therapist discovery
 - Real-time LLM responses powered by Groq
 - FastAPI backend deployed on Railway
-- Secure environment-based configuration
 
 ---
 
-## AI Resume Analyzer and Interview Coach
+### AI Resume Analyzer & Interview Coach
+**GenAI · React.js · Node.js · Python · Tailwind CSS**
 
-**GenAI | React.js | Node.js | Python | Tailwind CSS**
+A full-stack GenAI app that matches resumes against job descriptions and gives AI-powered insights on match score, weaknesses, and skill gaps.
 
-A full-stack GenAI application that analyzes resumes against target job descriptions and provides AI-powered insights into match percentage, weaknesses, and skill gaps.
-
-### Key Features
-
-- Resume and Job Description matching
-- AI-powered match scoring
+- Resume-to-JD matching with AI scoring
 - Skill gap identification
 - LLM-based analysis pipeline
-- Interactive AI interview practice
-- Text and voice-based interview interaction
+- Interactive AI interview practice (text + voice)
 - Responsive React.js interface
 
 ---
 
-## Real Estate AI Agent and CRM
+### Real Estate AI Agent & CRM
+**AI Agents · React.js · FastAPI · n8n · Twilio · Groq LLM**
 
-**AI Agents | React.js | FastAPI | n8n | Twilio | Groq LLM**
-
-An AI-powered real estate CRM that automates lead management and enables 24/7 WhatsApp conversations with potential property buyers.
-
-### Key Features
+An AI-powered real estate CRM that automates lead management and enables 24/7 WhatsApp conversations with potential buyers.
 
 - AI-powered property inquiry conversations
 - WhatsApp AI agent using Twilio
 - Automated workflows using n8n
-- Automated lead capture
-- Follow-up automation
-- Automated agent notifications
+- Automated lead capture & follow-up
 - Map-based property visualization
-- Hot lead tracking
-- Agent performance analytics
+- Hot lead tracking & agent performance analytics
 
 ---
 
-## CareLink — Online Healthcare Appointment Platform
+### CareLink — Online Healthcare Appointment Platform
+**MERN Stack · MongoDB · Express.js · React.js · Node.js · Groq AI**
 
-**MERN Stack | MongoDB | Express.js | React.js | Node.js | Groq AI**
-
-A full-stack healthcare platform designed to simplify appointment management and communication between patients, doctors, and administrators.
-
-### Key Features
+A full-stack healthcare platform simplifying appointment management and communication between patients, doctors, and admins.
 
 - Secure authentication
-- Doctor profiles and appointment booking
-- Appointment scheduling and conflict validation
-- Role-based dashboards for Patients, Doctors, and Admins
-- RESTful APIs using Node.js and Express.js
+- Doctor profiles & appointment booking
+- Scheduling with conflict validation
+- Role-based dashboards (Patient / Doctor / Admin)
 - Groq-powered conversational AI chatbot
 - Responsive React.js frontend
 
 ---
 
-# GitHub Statistics
+## GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=unaiza-tahir&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C9D1D9&ring_color=8B5CF6" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=unaiza-tahir&show_icons=true&hide_border=true&bg_color=0A0E27&title_color=2C74B3&icon_color=205295&text_color=C9D1D9&ring_color=2C74B3" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=unaiza-tahir&layout=compact&hide_border=true&bg_color=0A0E27&title_color=2C74B3&text_color=C9D1D9" height="180"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=unaiza-tahir&layout=compact&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9" height="180"/>
+<br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=unaiza-tahir&hide_border=true&background=0A0E27&ring=2C74B3&fire=205295&currStreakLabel=2C74B3&sideLabels=C9D1D9&dates=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF" width="80%"/>
+
+<br><br>
+
+<img src="https://github-readme-trophies.vercel.app/?username=unaiza-tahir&theme=algolia&no-frame=true&margin-w=10&column=4" width="90%"/>
 
 </div>
 
----
-
-# GitHub Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=unaiza-tahir&hide_border=true&background=0D1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA&sideLabels=C9D1D9&dates=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF" />
-
-</div>
+> **Note:** the stats/streak/trophy cards above pull live from your GitHub activity automatically — no setup needed beyond the README itself. If your contribution graph looks sparse, that's the fastest lever a recruiter notices, so keep commits flowing (even small ones) to a few repos regularly.
 
 ---
 
-# Currently Exploring
+## Currently Exploring
 
-<div align="center">
-
-<table>
+<table align="center">
 <tr>
-<td align="center" width="200">
-
-### LLM Applications
-
-Building practical applications powered by large language models.
-
-</td>
-
-<td align="center" width="200">
-
-### Agentic AI
-
-Exploring intelligent systems that can reason, use tools, and execute workflows.
-
-</td>
-
-<td align="center" width="200">
-
-### RAG Systems
-
-Learning retrieval-augmented generation and context-aware AI systems.
-
-</td>
+<td align="center" width="200"><b>LLM Applications</b><br>Practical apps powered by LLMs</td>
+<td align="center" width="200"><b>Agentic AI</b><br>Systems that reason, use tools, execute workflows</td>
+<td align="center" width="200"><b>RAG Systems</b><br>Retrieval-augmented, context-aware AI</td>
 </tr>
-
 <tr>
-<td align="center">
-
-### AI Automation
-
-Building intelligent workflows and automation using n8n.
-
-</td>
-
-<td align="center">
-
-### Full-Stack Systems
-
-Designing scalable applications across frontend, backend, and databases.
-
-</td>
-
-<td align="center">
-
-### Cloud Deployment
-
-Learning production deployment and cloud-based application infrastructure.
-
-</td>
+<td align="center"><b>AI Automation</b><br>Intelligent workflows with n8n</td>
+<td align="center"><b>Full-Stack Systems</b><br>Scalable apps across the stack</td>
+<td align="center"><b>Cloud Deployment</b><br>Production-grade infrastructure</td>
 </tr>
 </table>
 
-</div>
-
 ---
-
-# Development Philosophy
 
 <div align="center">
 
 ### Build. Learn. Improve.
 
-I believe the best way to learn software engineering is by building real products, understanding systems deeply, and continuously improving through experimentation.
+I believe the best way to learn software engineering is by building real products, understanding systems deeply, and iterating through experimentation.
 
 </div>
 
 ---
 
-# Let's Connect
+## Let's Connect
 
 <div align="center">
 
-Interested in AI, Full-Stack Development, or building something meaningful?
-
-<br><br>
+Interested in AI, Full-Stack Development, or building something meaningful? Let's talk.
 
 <a href="mailto:unaizatahir24@gmail.com">
-<img src="https://img.shields.io/badge/Email-unaizatahir24%40gmail.com-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-unaizatahir24%40gmail.com-144272?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-
 <a href="https://linkedin.com/in/unaiza-tahir-4473b436">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-Connect-205295?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <br><br>
 
 Thank you for visiting my profile.
 
-</div>
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243E,50:302B63,100:0F0C29&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:205295,50:144272,100:0A2647&height=120&section=footer" width="100%"/>
 
 </div>
