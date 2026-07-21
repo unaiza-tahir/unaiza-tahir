@@ -1,33 +1,34 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:0d1117&height=220&section=header&text=UNAIZA%20TAHIR&fontSize=50&fontColor=39FF14&animation=fadeIn&fontAlignY=35&desc=%3E%20full_stack_dev%20%26%26%20agentic_ai_builder&descAlignY=52&descSize=16&descColor=00FFF7" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:0d1117&height=220&section=header&text=UNAIZA%20TAHIR&fontSize=50&fontColor=39FF14&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Agentic%20AI%20Builder&descAlignY=52&descSize=16&descColor=00FFF7" width="100%"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=39FF14&center=true&vCenter=true&width=650&lines=%24+whoami;unaiza_tahir+~+full+stack+%2B+agentic+AI;%24+skills+--list;MERN+%7C+LangGraph+%7C+n8n+%7C+Groq;%24+status;shipping+real+products..." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=39FF14&center=true&vCenter=true&width=650&lines=%24+whoami;unaiza_tahir+~+full+stack+%2B+agentic+AI;%24+stack+--list;MERN+%7C+LangGraph+%7C+n8n+%7C+Groq;%24+status;open+to+full+stack+%26+AI+internships" alt="Typing SVG" />
 
 <br/><br/>
 
 <a href="mailto:unaizatahir24@gmail.com"><img src="https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=39FF14&labelColor=000000"/></a>
 <a href="https://github.com/unaiza-tahir"><img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=39FF14&labelColor=000000"/></a>
+<a href="https://www.linkedin.com/"><img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=39FF14&labelColor=000000"/></a>
 
 </div>
 
 <br/>
 
 ```bash
-> cat about_me.txt
+> cat about.txt
 ------------------------------------------------------------
-  building end-to-end products: web apps, AI agents,
-  automations that actually take action.
+  Full stack developer building end-to-end products:
+  web apps, AI agents, and automations that take real action.
 
-  currently deep in agentic AI + workflow automation.
+  Currently focused on agentic AI systems and
+  workflow automation (LangGraph + n8n).
 ------------------------------------------------------------
-  full stack dev      -> MongoDB / Express / React / Node
-  agentic AI          -> LangGraph, LangChain, Groq
-  automation          -> n8n
-  status              -> always shipping, always learning
-  open to             -> full stack & AI-native roles
+  Full Stack   -> MongoDB / Express / React / Node.js
+  Agentic AI   -> LangGraph, LangChain, Groq
+  Automation   -> n8n
+  Open to      -> Full Stack & AI Engineering Internships
 ------------------------------------------------------------
 ```
 
@@ -37,7 +38,7 @@
 
 ### `> tech_stack --verbose`
 
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,js,python,git,vercel,docker&theme=dark" />
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,js,python,fastapi,django,cpp,git,docker,vercel&theme=dark" />
 
 <br/><br/>
 
@@ -45,6 +46,7 @@
 <img src="https://img.shields.io/badge/LANGGRAPH-000000?style=for-the-badge&labelColor=000000&color=39FF14"/>
 <img src="https://img.shields.io/badge/N8N-000000?style=for-the-badge&logo=n8n&logoColor=39FF14&labelColor=000000"/>
 <img src="https://img.shields.io/badge/GROQ-000000?style=for-the-badge&labelColor=000000&color=39FF14"/>
+<img src="https://img.shields.io/badge/TWILIO-000000?style=for-the-badge&logo=twilio&logoColor=39FF14&labelColor=000000"/>
 <img src="https://img.shields.io/badge/RAILWAY-000000?style=for-the-badge&logo=railway&logoColor=39FF14&labelColor=000000"/>
 
 </div>
@@ -53,7 +55,7 @@
 
 <div align="center">
 
-### `> ls ./featured_builds/`
+### `> ls ./featured_projects/`
 
 </div>
 
@@ -62,18 +64,18 @@
 <td width="50%" valign="top">
 
 **[AI Resume Screener](https://github.com/unaiza-tahir/resume-screener)**
-<br/>
-Generative AI resume screener and mock interview platform — analyzes resumes against job descriptions and generates AI-driven interview questions.
-<br/>
+
+Generative AI platform that screens resumes against job descriptions and auto-generates role-specific mock interview questions using LLMs.
+
 `React` `Node.js` `FastAPI` `MongoDB` `Groq`
 
 </td>
 <td width="50%" valign="top">
 
-**[SafeSpace AI Therapist](https://github.com/unaiza-tahir/Ai-Therapist)**
-<br/>
-AI mental health agent on WhatsApp with crisis escalation and location-based therapist lookup.
-<br/>
+**[SafeSpace — AI Mental Health Agent](https://github.com/unaiza-tahir/Ai-Therapist)**
+
+Conversational AI agent on WhatsApp with a multi-step LangGraph workflow: crisis detection, escalation logic, and location-based therapist recommendations.
+
 `FastAPI` `LangGraph` `Groq` `Twilio`
 
 </td>
@@ -81,19 +83,19 @@ AI mental health agent on WhatsApp with crisis escalation and location-based the
 <tr>
 <td width="50%" valign="top">
 
-**[CareLink Hospital Management System](https://github.com/unaiza-tahir/carelink-hospital-management-system)**
-<br/>
-A full stack hospital management system.
-<br/>
-`MERN Stack`
+**[CareLink — Hospital Management System](https://github.com/unaiza-tahir/carelink-hospital-management-system)**
+
+Full stack hospital management system covering patient records, appointments, and staff workflows.
+
+`MongoDB` `Express` `React` `Node.js`
 
 </td>
 <td width="50%" valign="top">
 
-**[Sindh Smart Citizen Portal](https://github.com/Amna-Sarfaraz/Sindh-Smart-Citizen-Portal-)** *(collaborator)*
-<br/>
-A unified, intelligent, and transparent platform for public services in Sindh.
-<br/>
+**[Sindh Smart Citizen Portal](https://github.com/Amna-Sarfaraz/Sindh-Smart-Citizen-Portal-)** — *Contributor*
+
+Unified digital platform for public service access and transparency across Sindh government departments.
+
 `JavaScript`
 
 </td>
@@ -101,31 +103,31 @@ A unified, intelligent, and transparent platform for public services in Sindh.
 <tr>
 <td width="50%" valign="top">
 
-**[Mehfooz](https://github.com/unaiza-tahir/Mehfooz)** *(collaborator)*
-<br/>
-A safety-focused platform built in collaboration with the team.
-<br/>
+**[Farm2Market](https://github.com/unaiza-tahir/Farm2Market)** — *Contributor*
+
+Agro-trade platform connecting farmers directly with buyers, with intelligent crop sorting and matching logic.
+
+`Django` `C++`
+
+</td>
+<td width="50%" valign="top">
+
+**[Mehfooz](https://github.com/unaiza-tahir/Mehfooz)** — *Contributor*
+
+Safety-focused platform built for community incident reporting and awareness.
+
 `JavaScript`
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 **[Tempus Watch Store](https://github.com/unaiza-tahir/-tempus-watch-store)**
-<br/>
-A front-end e-commerce website for browsing and showcasing watches.
-<br/>
+
+Front-end e-commerce site for browsing and showcasing a watch catalog.
+
 `HTML` `CSS` `JavaScript`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**[Farm2Market](https://github.com/unaiza-tahir/Farm2Market)** *(collaborator)*
-<br/>
-A smart agro trade platform connecting farmers and buyers with intelligent crop sorting, searching, and matching.
-<br/>
-`Django` `C++`
 
 </td>
 <td width="50%" valign="top">
@@ -133,6 +135,17 @@ A smart agro trade platform connecting farmers and buyers with intelligent crop 
 </td>
 </tr>
 </table>
+
+<br/>
+
+<div align="center">
+
+### `> git stats --show`
+
+<img src="https://github-readme-stats.vercel.app/api?username=unaiza-tahir&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=39FF14&icon_color=00FFF7&text_color=c9d1d9" width="48%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=unaiza-tahir&theme=dark&hide_border=true&background=0d1117&ring=39FF14&fire=00FFF7&currStreakLabel=39FF14" width="48%"/>
+
+</div>
 
 <br/>
 
