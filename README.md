@@ -1,24 +1,24 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A2647,50:144272,100:205295&height=230&section=header&text=Unaiza%20Tahir&fontSize=52&fontColor=FFFFFF&fontAlignY=35&desc=Full-Stack%20AI%20Developer%20%7C%20Agentic%20AI%20%7C%20LLMs%20%7C%20GenAI&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1E1B4B,100:4C1D95&height=230&section=header&text=Unaiza%20Tahir&fontSize=52&fontColor=FFFFFF&fontAlignY=35&desc=Full-Stack%20AI%20Developer%20%7C%20Agentic%20AI%20%7C%20LLMs%20%7C%20GenAI&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
 <a href="https://linkedin.com/in/unaiza-tahir-4473b436">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-205295?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-Connect-6366F1?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="mailto:unaizatahir24@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-144272?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-Contact-4C1D95?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 <a href="https://github.com/unaiza-tahir">
-<img src="https://img.shields.io/badge/GitHub-Profile-0A2647?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-Profile-0D1117?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=2C74B3&center=true&vCenter=true&width=650&lines=Building+Agentic+AI+systems+that+actually+ship;LangGraph+%2B+FastAPI+%2B+LLMs+%3D+%E2%9D%A4%EF%B8%8F;Full-Stack+Developer+%7C+MERN+%2B+GenAI;Turning+ideas+into+production-ready+products" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=818CF8&center=true&vCenter=true&width=650&lines=Building+Agentic+AI+systems+that+actually+ship;LangGraph+%2B+FastAPI+%2B+LLMs+%3D+%E2%9D%A4%EF%B8%8F;Full-Stack+Developer+%7C+MERN+%2B+GenAI;Turning+ideas+into+production-ready+products" alt="Typing SVG"/>
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=unaiza-tahir&label=Profile%20Views&color=2C74B3&style=flat-square"/>
+<img src="https://komarev.com/ghpvc/?username=unaiza-tahir&label=Profile%20Views&color=6366F1&style=flat-square"/>
 
 </div>
 
@@ -30,7 +30,7 @@ I'm a Software Engineering student at **NED University of Engineering and Techno
 
 I like building software that actually solves a problem — AI agents that automate real workflows, and full-stack products that are clean, scalable, and production-ready.
 
-**Currently:** developing reliable AI-powered products while deepening my understanding of software architecture and backend systems.
+**Currently:** developing reliable AI-powered products while deepening my understanding of backend architecture and system design.
 
 ---
 
@@ -72,11 +72,11 @@ Twilio · AI-driven Automation
 **AI / Generative AI**
 
 <p>
-<img src="https://img.shields.io/badge/Python-0A2647?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/LangChain-144272?style=for-the-badge&logo=langchain&logoColor=white"/>
-<img src="https://img.shields.io/badge/LangGraph-205295?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/LLMs-2C74B3?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Agentic_AI-0A2647?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Python-1E1B4B?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/LangChain-312E81?style=for-the-badge&logo=langchain&logoColor=white"/>
+<img src="https://img.shields.io/badge/LangGraph-4338CA?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LLMs-6366F1?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Agentic_AI-4C1D95?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"/>
 <img src="https://img.shields.io/badge/Groq-111827?style=for-the-badge"/>
 </p>
@@ -183,20 +183,20 @@ A full-stack healthcare platform simplifying appointment management and communic
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=unaiza-tahir&show_icons=true&hide_border=true&bg_color=0A0E27&title_color=2C74B3&icon_color=205295&text_color=C9D1D9&ring_color=2C74B3" height="180"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=unaiza-tahir&layout=compact&hide_border=true&bg_color=0A0E27&title_color=2C74B3&text_color=C9D1D9" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=unaiza-tahir&show_icons=true&hide_border=true&bg_color=0D1117&title_color=818CF8&icon_color=6366F1&text_color=C9D1D9&ring_color=818CF8" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=unaiza-tahir&layout=compact&hide_border=true&bg_color=0D1117&title_color=818CF8&text_color=C9D1D9" height="180"/>
 
 <br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=unaiza-tahir&hide_border=true&background=0A0E27&ring=2C74B3&fire=205295&currStreakLabel=2C74B3&sideLabels=C9D1D9&dates=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF" width="80%"/>
+<img src="https://streak-stats.demolab.com?user=unaiza-tahir&hide_border=true&background=0D1117&ring=818CF8&fire=6366F1&currStreakLabel=818CF8&sideLabels=C9D1D9&dates=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF" width="80%"/>
 
 <br><br>
 
-<img src="https://github-readme-trophies.vercel.app/?username=unaiza-tahir&theme=algolia&no-frame=true&margin-w=10&column=4" width="90%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=unaiza-tahir&theme=algolia&no-frame=true&margin-w=10&column=4" width="90%"/>
 
 </div>
 
-> **Note:** the stats/streak/trophy cards above pull live from your GitHub activity automatically — no setup needed beyond the README itself. If your contribution graph looks sparse, that's the fastest lever a recruiter notices, so keep commits flowing (even small ones) to a few repos regularly.
+> **Note:** these cards pull live from your GitHub activity — nothing to set up beyond the README. If a card doesn't render on first load, refresh the page once (the free hosting services occasionally cold-start). If your contribution graph looks sparse, that's the first thing a recruiter notices — keep small, regular commits going across a few repos.
 
 ---
 
@@ -217,16 +217,6 @@ A full-stack healthcare platform simplifying appointment management and communic
 
 ---
 
-<div align="center">
-
-### Build. Learn. Improve.
-
-I believe the best way to learn software engineering is by building real products, understanding systems deeply, and iterating through experimentation.
-
-</div>
-
----
-
 ## Let's Connect
 
 <div align="center">
@@ -234,16 +224,14 @@ I believe the best way to learn software engineering is by building real product
 Interested in AI, Full-Stack Development, or building something meaningful? Let's talk.
 
 <a href="mailto:unaizatahir24@gmail.com">
-<img src="https://img.shields.io/badge/Email-unaizatahir24%40gmail.com-144272?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-unaizatahir24%40gmail.com-4C1D95?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 <a href="https://linkedin.com/in/unaiza-tahir-4473b436">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-205295?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-Connect-6366F1?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <br><br>
 
-Thank you for visiting my profile.
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:205295,50:144272,100:0A2647&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4C1D95,50:1E1B4B,100:0D1117&height=120&section=footer" width="100%"/>
 
 </div>
