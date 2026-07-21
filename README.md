@@ -23,11 +23,11 @@
 
   currently deep in agentic AI + workflow automation.
 ------------------------------------------------------------
-  🔭 full stack dev   -> MongoDB / Express / React / Node
-  🤖 agentic AI       -> LangGraph, LangChain, Groq
-  ⚙️  automation       -> n8n
-  🌱 status           -> always shipping, always learning
-  💬 open to          -> full stack & AI-native roles
+  full stack dev      -> MongoDB / Express / React / Node
+  agentic AI          -> LangGraph, LangChain, Groq
+  automation          -> n8n
+  status              -> always shipping, always learning
+  open to             -> full stack & AI-native roles
 ------------------------------------------------------------
 ```
 
@@ -61,16 +61,16 @@
 <tr>
 <td width="50%" valign="top">
 
-**[📄 AI Resume Screener](https://github.com/unaiza-tahir/resume-screener)**
+**[AI Resume Screener](https://github.com/unaiza-tahir/resume-screener)**
 <br/>
-Generative AI resume screener & mock interview platform — analyzes resumes against job descriptions and generates AI-driven interview questions.
+Generative AI resume screener and mock interview platform — analyzes resumes against job descriptions and generates AI-driven interview questions.
 <br/>
 `React` `Node.js` `FastAPI` `MongoDB` `Groq`
 
 </td>
 <td width="50%" valign="top">
 
-**[🧠 SafeSpace AI Therapist](https://github.com/unaiza-tahir/Ai-Therapist)**
+**[SafeSpace AI Therapist](https://github.com/unaiza-tahir/Ai-Therapist)**
 <br/>
 AI mental health agent on WhatsApp with crisis escalation and location-based therapist lookup.
 <br/>
@@ -81,7 +81,7 @@ AI mental health agent on WhatsApp with crisis escalation and location-based the
 <tr>
 <td width="50%" valign="top">
 
-**[🏥 CareLink Hospital Management System](https://github.com/unaiza-tahir/carelink-hospital-management-system)**
+**[CareLink Hospital Management System](https://github.com/unaiza-tahir/carelink-hospital-management-system)**
 <br/>
 A full stack hospital management system.
 <br/>
@@ -90,7 +90,7 @@ A full stack hospital management system.
 </td>
 <td width="50%" valign="top">
 
-**[🏛️ Sindh Smart Citizen Portal](https://github.com/Amna-Sarfaraz/Sindh-Smart-Citizen-Portal-)** *(collaborator)*
+**[Sindh Smart Citizen Portal](https://github.com/Amna-Sarfaraz/Sindh-Smart-Citizen-Portal-)** *(collaborator)*
 <br/>
 A unified, intelligent, and transparent platform for public services in Sindh.
 <br/>
@@ -101,7 +101,7 @@ A unified, intelligent, and transparent platform for public services in Sindh.
 <tr>
 <td width="50%" valign="top">
 
-**[🛡️ Mehfooz](https://github.com/unaiza-tahir/Mehfooz)** *(collaborator)*
+**[Mehfooz](https://github.com/unaiza-tahir/Mehfooz)** *(collaborator)*
 <br/>
 A safety-focused platform built in collaboration with the team.
 <br/>
@@ -110,7 +110,7 @@ A safety-focused platform built in collaboration with the team.
 </td>
 <td width="50%" valign="top">
 
-**[⌚ Tempus Watch Store](https://github.com/unaiza-tahir/-tempus-watch-store)**
+**[Tempus Watch Store](https://github.com/unaiza-tahir/-tempus-watch-store)**
 <br/>
 A front-end e-commerce website for browsing and showcasing watches.
 <br/>
@@ -121,7 +121,7 @@ A front-end e-commerce website for browsing and showcasing watches.
 <tr>
 <td width="50%" valign="top">
 
-**[🌾 Farm2Market](https://github.com/unaiza-tahir/Farm2Market)** *(collaborator)*
+**[Farm2Market](https://github.com/unaiza-tahir/Farm2Market)** *(collaborator)*
 <br/>
 A smart agro trade platform connecting farmers and buyers with intelligent crop sorting, searching, and matching.
 <br/>
