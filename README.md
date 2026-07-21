@@ -16,10 +16,6 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=818CF8&center=true&vCenter=true&width=650&lines=Building+Agentic+AI+systems+that+actually+ship;LangGraph+%2B+FastAPI+%2B+LLMs+%3D+%E2%9D%A4%EF%B8%8F;Full-Stack+Developer+%7C+MERN+%2B+GenAI;Turning+ideas+into+production-ready+products" alt="Typing SVG"/>
 
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=unaiza-tahir&label=Profile%20Views&color=6366F1&style=flat-square"/>
-
 </div>
 
 ---
