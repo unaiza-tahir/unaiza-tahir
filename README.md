@@ -90,7 +90,7 @@ system design at depth
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,react,nextjs,js,nodejs,express,fastapi,mongodb,mysql,git,github,figma,vercel,docker&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,react,nextjs,js,nodejs,express,fastapi,mongodb,mysql,git,github,figma,vercel&theme=dark" />
 
 </div>
 
