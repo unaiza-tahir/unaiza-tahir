@@ -215,11 +215,24 @@ A full-stack healthcare platform simplifying appointment management and communic
 
 <img src="https://github-profile-trophy.vercel.app/?username=unaiza-tahir&theme=algolia&no-frame=true&margin-w=10&column=4" width="90%"/>
 
-<br><br>
+</div>
 
-<!-- SNAKE_START -->
-<img src="https://raw.githubusercontent.com/unaiza-tahir/unaiza-tahir/output/github-contribution-grid-snake-dark.svg" width="90%"/>
-<!-- SNAKE_END -->
+<br>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:4C1D95,100:0D1117&height=2&width=1000" width="60%"/>
+</div>
+
+<br>
+
+<div align="center">
+
+## AI Insight of the Day
+### <sub>auto-generated daily by a Groq LLM via GitHub Actions</sub>
+
+<!-- AI-INSIGHT-START -->
+Building agentic systems taught me one thing: the best agents don't just respond — they know when to ask for help.
+<!-- AI-INSIGHT-END -->
 
 </div>
 
