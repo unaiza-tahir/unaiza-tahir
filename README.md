@@ -6,9 +6,9 @@
 
 <br><br>
 
-<a href="https://linkedin.com/in/unaiza-tahir-4473b436"><img src="https://img.shields.io/badge/LinkedIn-0A0A0F?style=flat-square&logo=linkedin&logoColor=8B5CF6&labelColor=0A0A0F"/></a>
-<a href="mailto:unaizatahir24@gmail.com"><img src="https://img.shields.io/badge/Email-0A0A0F?style=flat-square&logo=gmail&logoColor=8B5CF6&labelColor=0A0A0F"/></a>
-<a href="https://github.com/unaiza-tahir"><img src="https://img.shields.io/badge/GitHub-0A0A0F?style=flat-square&logo=github&logoColor=8B5CF6&labelColor=0A0A0F"/></a>
+<a href="https://linkedin.com/in/unaiza-tahir-4473b436"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:unaizatahir24@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://github.com/unaiza-tahir"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 </div>
 
@@ -51,35 +51,28 @@ Twilio · AI Workflows
 </td>
 <td width="33%" valign="top">
 
-### `03` Stack
+### `03` Status
 
-**AI / GenAI**
-Python · LangChain · LangGraph
-Groq · Agentic AI · n8n
+**Open to**
+Full-Stack & AI Engineering
+internships
 
-**Frontend**
-React · Next.js · JavaScript
-Tailwind CSS
+**Building**
+Agentic AI products with
+real-world tool use
 
-**Backend**
-Node.js · Express · FastAPI · PHP
+**Learning**
+Backend architecture &
+system design at depth
 
 </td>
 <td width="33%" valign="top">
 
-### `04` Tools
+### `04` Reach
 
-**Data**
-MongoDB · MySQL · Oracle DB
-Supabase
-
-**Platform**
-Git · GitHub · Vercel · Railway
-Postman · VS Code · Figma
-
-**Status**
-Open to Full-Stack & AI
-Engineering internships
+📧 unaizatahir24@gmail.com
+🔗 linkedin.com/in/unaiza-tahir
+💻 github.com/unaiza-tahir
 
 </td>
 </tr>
@@ -93,14 +86,44 @@ Engineering internships
 
 <br>
 
-## `05` Featured Work
+## `05` Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,react,nextjs,js,nodejs,express,fastapi,mongodb,mysql,git,github,figma,vercel,docker&theme=dark" />
+
+</div>
+
+<br>
+
+<p align="center">
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=00FFB2"/>
+<img src="https://img.shields.io/badge/LangGraph-1A1A2E?style=for-the-badge&logoColor=8B5CF6&color=1A1A2E"/>
+<img src="https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
+<img src="https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+</p>
+
+<br>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0A0F,50:8B5CF6,100:0A0A0F&height=1&width=1000" width="100%"/>
+</div>
+
+<br>
+
+## `06` Featured Work
 
 <table width="100%">
 <tr>
 <td width="100%">
 
 ### MindEase — AI Mental Health Support Agent
-`Agentic AI` `LangGraph` `FastAPI` `Groq` `Twilio`
+
+<img src="https://img.shields.io/badge/Agentic_AI-8B5CF6?style=flat-square&logoColor=white"/> <img src="https://img.shields.io/badge/LangGraph-6366F1?style=flat-square&logoColor=white"/> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/> <img src="https://img.shields.io/badge/Groq-F55036?style=flat-square&logoColor=white"/> <img src="https://img.shields.io/badge/Twilio-F22F46?style=flat-square&logo=twilio&logoColor=white"/>
 
 An AI-powered mental health support system built around WhatsApp, using a multi-tool agent architecture for conversational support, emergency escalation, and therapist discovery.
 
@@ -117,7 +140,8 @@ An AI-powered mental health support system built around WhatsApp, using a multi-
 <td width="100%">
 
 ### AI Resume Analyzer & Interview Coach
-`GenAI` `React` `Node.js` `Python` `Tailwind CSS`
+
+<img src="https://img.shields.io/badge/GenAI-8B5CF6?style=flat-square&logoColor=white"/> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
 
 A full-stack GenAI app that matches resumes against job descriptions and gives AI-powered insights on match score, weaknesses, and skill gaps.
 
@@ -134,7 +158,8 @@ A full-stack GenAI app that matches resumes against job descriptions and gives A
 <td width="100%">
 
 ### Real Estate AI Agent & CRM
-`AI Agents` `React` `FastAPI` `n8n` `Twilio` `Groq`
+
+<img src="https://img.shields.io/badge/AI_Agents-8B5CF6?style=flat-square&logoColor=white"/> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/> <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white"/> <img src="https://img.shields.io/badge/Twilio-F22F46?style=flat-square&logo=twilio&logoColor=white"/> <img src="https://img.shields.io/badge/Groq-F55036?style=flat-square&logoColor=white"/>
 
 An AI-powered real estate CRM that automates lead management and enables 24/7 WhatsApp conversations with potential buyers.
 
@@ -150,7 +175,8 @@ An AI-powered real estate CRM that automates lead management and enables 24/7 Wh
 <td width="100%">
 
 ### CareLink — Online Healthcare Appointment Platform
-`MERN` `MongoDB` `Express` `React` `Node.js` `Groq`
+
+<img src="https://img.shields.io/badge/MERN-47A248?style=flat-square&logo=mongodb&logoColor=white"/> <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/> <img src="https://img.shields.io/badge/Groq-F55036?style=flat-square&logoColor=white"/>
 
 A full-stack healthcare platform simplifying appointment management and communication between patients, doctors, and admins.
 
@@ -172,16 +198,20 @@ A full-stack healthcare platform simplifying appointment management and communic
 
 <br>
 
-## `06` GitHub Analytics
+## `07` GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=unaiza-tahir&show_icons=true&hide_border=true&bg_color=0A0A0F&title_color=8B5CF6&icon_color=8B5CF6&text_color=9CA3AF&ring_color=8B5CF6" height="175"/>
+<img src="https://github-readme-stats.vercel.app/api?username=unaiza-tahir&show_icons=true&hide_border=true&bg_color=0A0A0F&title_color=8B5CF6&icon_color=F59E0B&text_color=9CA3AF&ring_color=8B5CF6" height="175"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=unaiza-tahir&layout=compact&hide_border=true&bg_color=0A0A0F&title_color=8B5CF6&text_color=9CA3AF" height="175"/>
 
 <br><br>
 
-<img src="https://streak-stats.demolab.com?user=unaiza-tahir&hide_border=true&background=0A0A0F&ring=8B5CF6&fire=8B5CF6&currStreakLabel=8B5CF6&sideLabels=9CA3AF&dates=6B7280&currStreakNum=FFFFFF&sideNums=FFFFFF" width="80%"/>
+<img src="https://streak-stats.demolab.com?user=unaiza-tahir&hide_border=true&background=0A0A0F&ring=8B5CF6&fire=F59E0B&currStreakLabel=8B5CF6&sideLabels=9CA3AF&dates=6B7280&currStreakNum=FFFFFF&sideNums=FFFFFF" width="80%"/>
+
+<br><br>
+
+<img src="https://github-profile-trophy.vercel.app/?username=unaiza-tahir&theme=algolia&no-frame=true&margin-w=10&column=4" width="90%"/>
 
 </div>
 
@@ -195,7 +225,7 @@ A full-stack healthcare platform simplifying appointment management and communic
 
 <div align="center">
 
-## `07` AI Insight of the Day
+## `08` AI Insight of the Day
 <sub>auto-generated daily by a Groq LLM via GitHub Actions</sub>
 
 <!-- AI-INSIGHT-START -->
@@ -208,10 +238,10 @@ Building agentic systems taught me one thing: the best agents don't just respond
 
 <div align="center">
 
-## `08` Let's Connect
+## `09` Let's Connect
 
-<a href="mailto:unaizatahir24@gmail.com"><img src="https://img.shields.io/badge/Email-0A0A0F?style=flat-square&logo=gmail&logoColor=8B5CF6&labelColor=0A0A0F"/></a>
-<a href="https://linkedin.com/in/unaiza-tahir-4473b436"><img src="https://img.shields.io/badge/LinkedIn-0A0A0F?style=flat-square&logo=linkedin&logoColor=8B5CF6&labelColor=0A0A0F"/></a>
+<a href="mailto:unaizatahir24@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://linkedin.com/in/unaiza-tahir-4473b436"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
 <br><br>
 
