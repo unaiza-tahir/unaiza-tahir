@@ -229,7 +229,7 @@ A full-stack healthcare platform simplifying appointment management and communic
 <sub>auto-generated daily by a Groq LLM via GitHub Actions</sub>
 
 <!-- AI-INSIGHT-START -->
-Building agentic systems taught me one thing: the best agents don't just respond — they know when to ask for help.
+Agentic AI systems will revolutionize software engineering by automating complex decision-making processes.
 <!-- AI-INSIGHT-END -->
 
 </div>
