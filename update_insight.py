@@ -5,7 +5,6 @@ and injects it into README.md between the marker comments.
 Runs inside a GitHub Action on a schedule — this is the whole
 "automation" in the profile: a live LLM call updating a real file.
 """
-
 import os
 import re
 from groq import Groq
