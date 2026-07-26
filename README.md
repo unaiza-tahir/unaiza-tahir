@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0A0F,35:1A1230,70:2D1B4E,100:0A0A0F&height=260&section=header&text=UNAIZA%20TAHIR&fontSize=50&fontColor=A78BFA&fontAlignY=36&animation=fadeIn&desc=Full-Stack%20AI%20Developer%20%E2%80%A2%20Agentic%20AI%20%E2%80%A2%20LLMs&descAlignY=58&descSize=16&descColor=9CA3AF" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:07070A,35:14100A,70:241B0C,100:07070A&height=260&section=header&text=UNAIZA%20TAHIR&fontSize=50&fontColor=E8C468&fontAlignY=36&animation=fadeIn&desc=Full-Stack%20AI%20Developer%20%E2%80%A2%20Agentic%20AI%20%E2%80%A2%20LLMs&descAlignY=58&descSize=16&descColor=9CA3AF" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3200&pause=1200&color=8B5CF6&center=true&vCenter=true&width=650&lines=Building+agentic+AI+systems+that+ship;LangGraph+%2B+FastAPI+%2B+LLMs+in+production;MERN+%2B+GenAI+%2C+end+to+end" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=19&duration=3200&pause=1200&color=D4AF37&center=true&vCenter=true&width=650&lines=Building+agentic+AI+systems+that+ship;LangGraph+%2B+FastAPI+%2B+LLMs+in+production;MERN+%2B+GenAI%2C+end+to+end" alt="Typing SVG"/>
 
 <br><br>
 
@@ -81,7 +81,7 @@ system design at depth
 <br>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0A0F,50:8B5CF6,100:0A0A0F&height=1&width=1000" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0A0F,50:D4AF37,100:0A0A0F&height=1&width=1000" width="100%"/>
 </div>
 
 <br>
@@ -98,7 +98,7 @@ system design at depth
 
 <p align="center">
 <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=00FFB2"/>
-<img src="https://img.shields.io/badge/LangGraph-1A1A2E?style=for-the-badge&logoColor=8B5CF6&color=1A1A2E"/>
+<img src="https://img.shields.io/badge/LangGraph-1A1A2E?style=for-the-badge&logoColor=D4AF37&color=1A1A2E"/>
 <img src="https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logoColor=white"/>
 <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"/>
 <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
@@ -110,7 +110,7 @@ system design at depth
 <br>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0A0F,50:8B5CF6,100:0A0A0F&height=1&width=1000" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0A0F,50:D4AF37,100:0A0A0F&height=1&width=1000" width="100%"/>
 </div>
 
 <br>
@@ -123,7 +123,7 @@ system design at depth
 
 ### MindEase — AI Mental Health Support Agent
 
-<img src="https://img.shields.io/badge/Agentic_AI-8B5CF6?style=flat-square&logoColor=white"/> <img src="https://img.shields.io/badge/LangGraph-6366F1?style=flat-square&logoColor=white"/> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/> <img src="https://img.shields.io/badge/Groq-F55036?style=flat-square&logoColor=white"/> <img src="https://img.shields.io/badge/Twilio-F22F46?style=flat-square&logo=twilio&logoColor=white"/>
+<img src="https://img.shields.io/badge/Agentic_AI-D4AF37?style=flat-square&logoColor=white"/> <img src="https://img.shields.io/badge/LangGraph-6366F1?style=flat-square&logoColor=white"/> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/> <img src="https://img.shields.io/badge/Groq-F55036?style=flat-square&logoColor=white"/> <img src="https://img.shields.io/badge/Twilio-F22F46?style=flat-square&logo=twilio&logoColor=white"/>
 
 An AI-powered mental health support system built around WhatsApp, using a multi-tool agent architecture for conversational support, emergency escalation, and therapist discovery.
 
@@ -141,7 +141,7 @@ An AI-powered mental health support system built around WhatsApp, using a multi-
 
 ### AI Resume Analyzer & Interview Coach
 
-<img src="https://img.shields.io/badge/GenAI-8B5CF6?style=flat-square&logoColor=white"/> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
+<img src="https://img.shields.io/badge/GenAI-D4AF37?style=flat-square&logoColor=white"/> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
 
 A full-stack GenAI app that matches resumes against job descriptions and gives AI-powered insights on match score, weaknesses, and skill gaps.
 
@@ -159,7 +159,7 @@ A full-stack GenAI app that matches resumes against job descriptions and gives A
 
 ### Real Estate AI Agent & CRM
 
-<img src="https://img.shields.io/badge/AI_Agents-8B5CF6?style=flat-square&logoColor=white"/> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/> <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white"/> <img src="https://img.shields.io/badge/Twilio-F22F46?style=flat-square&logo=twilio&logoColor=white"/> <img src="https://img.shields.io/badge/Groq-F55036?style=flat-square&logoColor=white"/>
+<img src="https://img.shields.io/badge/AI_Agents-D4AF37?style=flat-square&logoColor=white"/> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/> <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white"/> <img src="https://img.shields.io/badge/Twilio-F22F46?style=flat-square&logo=twilio&logoColor=white"/> <img src="https://img.shields.io/badge/Groq-F55036?style=flat-square&logoColor=white"/>
 
 An AI-powered real estate CRM that automates lead management and enables 24/7 WhatsApp conversations with potential buyers.
 
@@ -193,7 +193,7 @@ A full-stack healthcare platform simplifying appointment management and communic
 <br>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0A0F,50:8B5CF6,100:0A0A0F&height=1&width=1000" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0A0F,50:D4AF37,100:0A0A0F&height=1&width=1000" width="100%"/>
 </div>
 
 <br>
@@ -202,12 +202,12 @@ A full-stack healthcare platform simplifying appointment management and communic
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=unaiza-tahir&show_icons=true&hide_border=true&bg_color=0A0A0F&title_color=8B5CF6&icon_color=F59E0B&text_color=9CA3AF&ring_color=8B5CF6" height="175"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=unaiza-tahir&layout=compact&hide_border=true&bg_color=0A0A0F&title_color=8B5CF6&text_color=9CA3AF" height="175"/>
+<img src="https://github-readme-stats.vercel.app/api?username=unaiza-tahir&show_icons=true&hide_border=true&bg_color=0A0A0F&title_color=D4AF37&icon_color=F59E0B&text_color=9CA3AF&ring_color=D4AF37" height="175"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=unaiza-tahir&layout=compact&hide_border=true&bg_color=0A0A0F&title_color=D4AF37&text_color=9CA3AF" height="175"/>
 
 <br><br>
 
-<img src="https://streak-stats.demolab.com?user=unaiza-tahir&hide_border=true&background=0A0A0F&ring=8B5CF6&fire=F59E0B&currStreakLabel=8B5CF6&sideLabels=9CA3AF&dates=6B7280&currStreakNum=FFFFFF&sideNums=FFFFFF" width="80%"/>
+<img src="https://streak-stats.demolab.com?user=unaiza-tahir&hide_border=true&background=0A0A0F&ring=D4AF37&fire=F59E0B&currStreakLabel=D4AF37&sideLabels=9CA3AF&dates=6B7280&currStreakNum=FFFFFF&sideNums=FFFFFF" width="80%"/>
 
 <br><br>
 
@@ -218,7 +218,7 @@ A full-stack healthcare platform simplifying appointment management and communic
 <br>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0A0F,50:8B5CF6,100:0A0A0F&height=1&width=1000" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0A0F,50:D4AF37,100:0A0A0F&height=1&width=1000" width="100%"/>
 </div>
 
 <br>
@@ -245,6 +245,6 @@ Building agentic systems taught me one thing: the best agents don't just respond
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0A0F,35:2D1B4E,70:1A1230,100:0A0A0F&height=130&section=footer&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:07070A,35:241B0C,70:14100A,100:07070A&height=130&section=footer&animation=fadeIn" width="100%"/>
 
 </div>
