@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0A0A0F,100:15121F&height=230&section=header&text=UNAIZA%20TAHIR&fontSize=48&fontColor=8B5CF6&fontAlignY=40&desc=Full-Stack%20AI%20Developer%20%E2%80%A2%20Agentic%20AI%20%E2%80%A2%20LLMs&descAlignY=58&descSize=16&descColor=9CA3AF" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0A0F,35:1A1230,70:2D1B4E,100:0A0A0F&height=260&section=header&text=UNAIZA%20TAHIR&fontSize=50&fontColor=A78BFA&fontAlignY=36&animation=fadeIn&desc=Full-Stack%20AI%20Developer%20%E2%80%A2%20Agentic%20AI%20%E2%80%A2%20LLMs&descAlignY=58&descSize=16&descColor=9CA3AF" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3200&pause=1200&color=8B5CF6&center=true&vCenter=true&width=650&lines=Building+agentic+AI+systems+that+ship;LangGraph+%2B+FastAPI+%2B+LLMs+in+production;MERN+%2B+GenAI+%2C+end+to+end" alt="Typing SVG"/>
 
@@ -93,6 +93,7 @@ system design at depth
 <img src="https://skillicons.dev/icons?i=python,react,nextjs,js,nodejs,express,fastapi,mongodb,mysql,git,github,figma,vercel&theme=dark" />
 
 </div>
+
 <br>
 
 <p align="center">
@@ -228,7 +229,7 @@ A full-stack healthcare platform simplifying appointment management and communic
 <sub>auto-generated daily by a Groq LLM via GitHub Actions</sub>
 
 <!-- AI-INSIGHT-START -->
-Agentic AI systems will revolutionize software engineering by automating code optimization and deployment workflows.
+Building agentic systems taught me one thing: the best agents don't just respond — they know when to ask for help.
 <!-- AI-INSIGHT-END -->
 
 </div>
@@ -244,6 +245,6 @@ Agentic AI systems will revolutionize software engineering by automating code op
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:15121F,100:0A0A0F&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0A0F,35:2D1B4E,70:1A1230,100:0A0A0F&height=130&section=footer&animation=fadeIn" width="100%"/>
 
 </div>
