@@ -229,7 +229,7 @@ A full-stack healthcare platform simplifying appointment management and communic
 <sub>auto-generated daily by a Groq LLM via GitHub Actions</sub>
 
 <!-- AI-INSIGHT-START -->
-Agentic AI systems will revolutionize software engineering by automating complex development tasks.
+Agentic AI systems require intentional software engineering to balance autonomy and reliability.
 <!-- AI-INSIGHT-END -->
 
 </div>
