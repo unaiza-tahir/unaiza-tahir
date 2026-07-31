@@ -229,7 +229,7 @@ A full-stack healthcare platform simplifying appointment management and communic
 <sub>auto-generated daily by a Groq LLM via GitHub Actions</sub>
 
 <!-- AI-INSIGHT-START -->
-Autonomous systems amplify human productivity by automating repetitive software engineering tasks.
+Agentic AI systems will revolutionize software engineering by automating complex decision making processes.
 <!-- AI-INSIGHT-END -->
 
 </div>
