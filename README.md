@@ -229,7 +229,7 @@ A full-stack healthcare platform simplifying appointment management and communic
 <sub>auto-generated daily by a Groq LLM via GitHub Actions</sub>
 
 <!-- AI-INSIGHT-START -->
-Agentic AI transforms software engineering by automating repetitive tasks and amplifying human creativity.
+Agentic AI will revolutionize software engineering by automating entire development pipelines.
 <!-- AI-INSIGHT-END -->
 
 </div>
